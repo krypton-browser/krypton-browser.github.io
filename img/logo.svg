@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.495" height="121.488" viewBox="0 0 134.495 121.488">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3be4ff"/>
+      <stop offset="1" stop-color="#5a9ffc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3be4ff"/>
+      <stop offset="0" stop-color="#5a9ffc"/>
+      <stop offset="1" stop-color="#3be4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_59" data-name="그룹 59" transform="translate(0 0.5)">
+    <path id="합치기_8" data-name="합치기 8" d="M58.788,44.743a.778.778,0,0,1-.778-.778v-31.3H12.664V34.443a.778.778,0,0,1-.778.778H.778A.778.778,0,0,1,0,34.443V.779A.778.778,0,0,1,.778,0H69.9a.778.778,0,0,1,.778.779V11.886c0,.012,0,.025,0,.037V43.966a.778.778,0,0,1-.778.778Z" transform="translate(25.328 0)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="합치기_6" data-name="합치기 6" d="M.779,75.589A.778.778,0,0,1,0,74.812V64.544q0-.018,0-.037V.778A.778.778,0,0,1,.779,0H11.886a.777.777,0,0,1,.778.778V50.261h95.063a.778.778,0,0,1,.779.778V74.812a.778.778,0,0,1-.779.778Z" transform="translate(25.328 44.899)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="합치기_7" data-name="합치기 7" d="M58.883,50.511H.779A.778.778,0,0,1,0,49.733V25.961a.778.778,0,0,1,.779-.778H58.1V.778A.778.778,0,0,1,58.883,0H82.655a.778.778,0,0,1,.778.778V49.733a.778.778,0,0,1-.778.778Z" transform="translate(50.561 32.08)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <rect id="사각형_190" data-name="사각형 190" width="12.664" height="75.59" rx="0.778" transform="translate(12.664 120.489) rotate(-180)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
