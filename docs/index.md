@@ -1,0 +1,79 @@
+---
+sidebar_position: 1
+slug: /
+custom_edit_url: null
+---
+
+# License
+
+- https://github.com/babel/babel: MIT License
+- https://github.com/pmmmwh/react-refresh-webpack-plugin: MIT License
+- https://github.com/TeamSupercell/typings-for-css-modules-loader: MIT License
+- https://github.com/testing-library/jest-dom: MIT License
+- https://github.com/testing-library/react-testing-library: MIT License
+- https://github.com/DefinitelyTyped/DefinitelyTyped: MIT License
+- https://github.com/typescript-eslint/typescript-eslint: MIT License
+- https://github.com/electron-react-boilerplate/browserslist-config-erb: MIT License
+- https://github.com/chalk/chalk: MIT License
+- https://github.com/kimmobrunfeldt/concurrently: MIT License
+- https://github.com/zloirock/core-js: MIT License
+- https://github.com/kentcdodds/cross-env: MIT License
+- https://github.com/webpack-contrib/css-loader: MIT License
+- https://github.com/webpack-contrib/css-minimizer-webpack-plugin: MIT License
+- https://github.com/node-modules/detect-port: MIT License
+- https://github.com/electron/electron: MIT License
+- https://github.com/electron-userland/electron-builder: MIT License
+- https://github.com/MarshallOfSound/electron-devtools-installer: MIT License
+- https://github.com/electron/electron-notarize: MIT License
+- https://github.com/electron/electron-rebuild: MIT License
+- https://github.com/enzymejs/enzyme: MIT License
+- https://github.com/adriantoine/enzyme-to-json: MIT License
+- https://github.com/eslint/eslint: MIT License
+- https://github.com/airbnb/javascript: MIT License
+- https://github.com/iamturns/eslint-config-airbnb-typescript: MIT License
+- https://github.com/electron-react-boilerplate/eslint-config-erb: MIT License
+- https://github.com/prettier/eslint-config-prettier: MIT License
+- https://github.com/import-js/eslint-plugin-import: MIT License
+- https://github.com/amilajack/eslint-plugin-compat: MIT License
+- https://github.com/jest-community/eslint-plugin-jest: MIT License
+- https://github.com/jsx-eslint/eslint-plugin-jsx-a11y: MIT License
+- https://github.com/prettier/eslint-plugin-prettier: MIT License
+- https://github.com/xjamundx/eslint-plugin-promise: MIT License
+- https://github.com/yannickcr/eslint-plugin-react: MIT License
+- https://github.com/facebook/react: MIT License
+- https://github.com/webpack-contrib/file-loader: MIT License
+- https://github.com/typicode/husky: MIT License
+- https://github.com/keyz/identity-obj-proxy: MIT License
+- https://github.com/facebook/jest: MIT License
+- https://github.com/okonet/lint-staged: MIT License
+- https://github.com/webpack-contrib/mini-css-extract-plugin: MIT License
+- https://github.com/sass/node-sass: MIT License
+- https://github.com/opencollective/opencollective-postinstall: MIT License
+- https://github.com/prettier/prettier: MIT License
+- https://github.com/isaacs/rimraf: MIT License
+- https://github.com/webpack-contrib/sass-loader: MIT License
+- https://github.com/webpack-contrib/style-loader: MIT License
+- https://github.com/webpack-contrib/terser-webpack-plugin: MIT License
+- https://github.com/Microsoft/TypeScript: Apache-2.0 License
+- https://github.com/webpack-contrib/url-loader: MIT License
+- https://github.com/webpack/webpack: MIT License
+- https://github.com/webpack-contrib/webpack-bundle-analyzer: MIT License
+- https://github.com/webpack/webpack-cli: MIT License
+- https://github.com/webpack/webpack-dev-server: MIT License
+- https://github.com/survivejs/webpack-merge: MIT License
+- https://github.com/atlassian/yarn-deduplicate: Apache-2.0 License
+- https://github.com/reduxjs/redux-toolkit: MIT License
+- https://github.com/browserslist/caniuse-lite: MIT License
+- https://github.com/brix/crypto-js: MIT License
+- https://github.com/sindresorhus/electron-debug: MIT License
+- https://github.com/megahertz/electron-log: MIT License
+- https://github.com/remix-run/history: MIT License
+- https://github.com/automation-stack/node-machine-id: MIT License
+- https://github.com/reduxjs/react-redux: MIT License
+- https://github.com/remix-run/react-router: MIT License
+- https://github.com/reduxjs/redux: MIT License
+- https://github.com/LogRocket/redux-logger: MIT License
+- https://github.com/facebook/regenerator: MIT License
+- https://github.com/evanw/node-source-map-support: MIT License
+- https://github.com/TomPrograms/stormdb: MIT License
+- https://github.com/uuidjs/uuid: MIT License
